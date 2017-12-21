@@ -1,4 +1,4 @@
-#Load Feature Services App
+# Load Feature Services App
 
 Java app created for testing Esri Feature Services.
 Demonstrates how to load web services into a map.
@@ -7,7 +7,7 @@ Demonstrates how to load web services into a map.
 
 The app loads the data through the REST url, render it into the map and also provides info from the attribute table
 
-##How it works
+## How it works
 
 1. Paste a REST url into the Text Area 
 2. Push 'Add Service' button
