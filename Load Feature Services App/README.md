@@ -3,7 +3,7 @@
 Java app created for testing Esri Feature Services.
 Demonstrates how to load web services into a map.
 
-https://github.com/ialixandroae/ArcGIS-Runtime-SDK-for-Java/blob/master/Load%20Feature%20Services%20App/app.gif
+![Alt Text](https://github.com/ialixandroae/ArcGIS-Runtime-SDK-for-Java/blob/master/Load%20Feature%20Services%20App/app.gif)
 
 The app loads the data through the REST url, render it into the map and also provides info from the attribute table
 
